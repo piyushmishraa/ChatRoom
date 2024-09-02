@@ -1,4 +1,4 @@
-export const ValidForm=(email,password)=>{
+export const checkValidForm=(email,password)=>{
     // eslint-disable-next-line 
     // const isNameValid=/\b([A-ZÀ-ÿ][-,a-z. ']+[ ]*)+/.test(name);
     // eslint-disable-next-line 

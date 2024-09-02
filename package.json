@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "@chatscope/chat-ui-kit-react": "^2.0.3",
+    "@reduxjs/toolkit": "^2.2.1",
+    "firebase": "^10.8.1",
     "localforage": "^1.10.0",
+    "lucide-react": "^0.359.0",
     "match-sorter": "^6.3.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
